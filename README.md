@@ -1,2 +1,3 @@
-# PickingUp-and-Droping-Objects
-Picking up and droping objects system for game "StealHeart"
+# Item-System
+Picking up system for game "StealHeart"
+![video](video/demonstration.webm)
